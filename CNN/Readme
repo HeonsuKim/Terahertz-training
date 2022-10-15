@@ -1,1 +1,6 @@
-1. 
+CNN model for THz signal training
+
+1. data_processing.py: Signal processing for training and testing dataset
+2. training.py: Training process of the CNN model
+3. classification.py: Classification process of the CNN model
+4. probability_map.m: Derive probability map based on the classification result
