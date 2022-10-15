@@ -1,0 +1,10 @@
+Theoretical models: Signal generation based on the theoretical models (single and overlapped signal)
+
+1. complex_gfrp.mat: Complex refractive index of GFRP composite
+2. simaultiom.m: Signal generation code based on the theoretical models (single and overlapped signal)
+3. pulse_restore_td.m: Theoretical model of THz wave in time domain
+4. pulse_restore_fd.m: Theoretical model of THz wave in frequency domain
+5. reflection_generator.m: Theoretical model of THz wave in reflection
+6. normalize.m: Normalize the THz signal
+7. cubic_spline.m: Cubic spline interpolation
+8. first_peak.m: Find peak of the THz signal
