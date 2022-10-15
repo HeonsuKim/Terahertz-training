@@ -1,8 +1,7 @@
 function [s_eq]=cubic_spline(test,time_scale)
 
-%test(:,1)=시간
-%test(:,2~)=데이터
-%time_scale, data만 입력되면 가능
+%test(:,1)=time
+%test(:,2~)=data
 
 [data_size,data_rank]=size(test);
 clear s_eq
